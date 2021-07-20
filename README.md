@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuuKiwAw
 - 👀 I’m interested in racing
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and go
 - 📫 How to reach me Email:zhangtuo1999@gmail.com    zhangtuo13@126.com
 
 <!---
