@@ -6,8 +6,10 @@ __  __        __    _  ______             __    _____         ____ __
  / // /_/ // ,<  / /  / /  /  __// /__ / / / /___/ // /_/ // __// /_  | |/ |/ // /_/ // /   /  __/
 /_/ \__,_//_/|_|/_/  /_/   \___/ \___//_/ /_//____/ \____//_/   \__/  |__/|__/ \__,_//_/    \___/ 
 ```                                                                                
-- 👋 Hi, I’m @yuuKiwAw
-- 📫 How to reach me Email:zhangtuo1999@gmail.com    zhangtuo13@126.com
+- 👋 Hello there~ This is Yuki.
+- 📫 Email:
+  - zhangtuo1999@gmail.com
+  - zhangtuo13@126.com
 
 <!---
 yuuKiwAw/yuuKiwAw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
