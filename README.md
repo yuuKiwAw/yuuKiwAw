@@ -1,10 +1,9 @@
-<h1 align="center">Hello There</h1>
-<h2 align="center">👋 This is Yuki.</h2>
+<h1 align="center">👋 Hello There This Is Yuki.</h1>
 
-- 📫 Email:
-  - zhangtuo1999@gmail.com
-  - zhangtuo13@126.com
 
+## 📫 Email
+<img src="https://img.shields.io/badge/zhangtuo1999@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/zhangtuo12138@outlook.com-0078D4.svg?style=for-the-badge&logo=Microsoft Outlook&logoColor=white"/>
 
 ## ⚔ Tech Stack
 <p>
