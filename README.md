@@ -19,8 +19,8 @@
 
 ## ⌨ Coding
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=yuuKiwAw&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuKiwAw&hide=html,css,Jupyter+Notebook,ruby,scss&theme=calm&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yuuKiwAw&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuuKiwAw&hide=html,css,Jupyter+Notebook,ruby,scss&theme=calm&langs_count=6&layout=compact" />
 </div>
 
 <!---
